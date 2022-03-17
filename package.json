@@ -1,6 +1,7 @@
 {
   "name": "Foundationappsubgraph",
   "license": "UNLICENSED",
+  "author": "Allan Santiago",
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
